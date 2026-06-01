@@ -44,4 +44,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76b632450923f48f18b66c749e79b245, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSettings: []
+  audioSettings:
+  - emitter: {fileID: 0}
+    tag: 
+    action: 0
+    parameter: 
+    targetValue: 0
+    saveParam: 0
