@@ -33,6 +33,8 @@ TagManager:
   - SnapshotPause
   - Zone_1
   - Zone_2
+  - Key_Stinger
+  - Zone_3
   layers:
   - Default
   - TransparentFX
