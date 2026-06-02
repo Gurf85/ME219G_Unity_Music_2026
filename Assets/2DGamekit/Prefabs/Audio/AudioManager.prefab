@@ -47,10 +47,10 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 1773451578
-      Data2: 1101332910
-      Data3: 1246895760
-      Data4: -566045397
+      Data1: 339301390
+      Data2: 1092298410
+      Data3: 905155221
+      Data4: 857354902
     Path: event:/Music/Zone_4
   Event: 
   EventPlayTrigger: 0
