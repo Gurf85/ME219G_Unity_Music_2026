@@ -37,6 +37,7 @@ TagManager:
   - Zone_3
   - Boss_Zone_5
   - Zone_4
+  - Boss_Stinger
   layers:
   - Default
   - TransparentFX
